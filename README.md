@@ -200,6 +200,7 @@ public Cat(string name)
 если times > 0, формируется строка из повторяющихся слов «мяу», разделённых символом -.
 Для формирования строки используется метод Enumerable.Repeat() и string.Join().
 
+<img width="456" height="427" alt="image" src="https://github.com/user-attachments/assets/dae4ecd2-4372-4800-a8be-acf40df758d5" />
 
 
 
